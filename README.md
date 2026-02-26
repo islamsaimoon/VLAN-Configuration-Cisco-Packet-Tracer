@@ -71,8 +71,8 @@ show running-config
 ```
 
 screenshots:
-- `show vlan brief` → `show-vlan-brief.png`
-- `show interfaces trunk` → `show-trunk.png`
+show-vlan-brief.png
+show-trunk.png
 
 ## Testing
 - Ping within same VLAN should work
