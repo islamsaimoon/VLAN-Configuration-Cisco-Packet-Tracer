@@ -70,14 +70,14 @@ show interfaces trunk
 show running-config
 ```
 
-Add screenshots:
-- `show vlan brief` → `screenshots/show-vlan-brief.png`
-- `show interfaces trunk` → `screenshots/show-trunk.png`
+screenshots:
+- `show vlan brief` → `show-vlan-brief.png`
+- `show interfaces trunk` → `show-trunk.png`
 
 ## Testing
 - Ping within same VLAN should work
 - Ping across different VLANs should fail **unless inter-VLAN routing is configured**
-Add ping screenshots:
+screenshots:
 ![Ping Tests](ping-test.png)
 
 ## Troubleshooting
