@@ -78,7 +78,7 @@ Add screenshots:
 - Ping within same VLAN should work
 - Ping across different VLANs should fail **unless inter-VLAN routing is configured**
 Add ping screenshots:
-![Ping Tests](ping-tests.png)
+![Ping Tests](ping-test.png)
 
 ## Troubleshooting
 Common checks:
