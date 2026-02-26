@@ -15,7 +15,7 @@ This project demonstrates VLAN segmentation and inter-device communication using
 
 ## Topology Overview
 Add a screenshot here:
-![Topology](screenshots/topology.png)
+![Topology](topology.png)
 
 ## VLAN Plan
 | VLAN ID | VLAN Name | Department/Use | Subnet (if used) |
