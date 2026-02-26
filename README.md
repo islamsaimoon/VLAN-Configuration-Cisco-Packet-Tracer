@@ -14,7 +14,6 @@ This project demonstrates VLAN segmentation and inter-device communication using
 - (Optional) Enable inter-VLAN routing (Router-on-a-Stick / L3 Switch)
 
 ## Topology Overview
-Add a screenshot here:
 ![Topology](topology.png)
 
 ## VLAN Plan
@@ -79,7 +78,7 @@ Add screenshots:
 - Ping within same VLAN should work
 - Ping across different VLANs should fail **unless inter-VLAN routing is configured**
 Add ping screenshots:
-![Ping Tests](screenshots/ping-tests.png)
+![Ping Tests](ping-tests.png)
 
 ## Troubleshooting
 Common checks:
@@ -89,5 +88,5 @@ Common checks:
 - IP addressing and gateway settings
 
 ## Author
-**Your Name**
+**Saimoon Islam**
 Cisco Packet Tracer VLAN Lab
